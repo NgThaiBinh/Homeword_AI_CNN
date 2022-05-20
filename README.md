@@ -1,5 +1,6 @@
 # Homeword_AI_CNN
-Nguyễn Thái Bình - 19146050 Vì có một số file dung lượng lớn hơn 100MB không thể up nên em để trên Google Drive.
+Nguyễn Thái Bình - 19146050 
+Vì có một số file dung lượng lớn hơn 100MB không thể up nên em để trên Google Drive.
 1.	Link Google Drive Colab: https://drive.google.com/drive/folders/1_C15lrVmR9YVco-UWtVrcTK2T__laSY_?usp=sharing
 2.	Link Google Drive mô hình train .h5: https://drive.google.com/drive/folders/1--vHVD5GgnNQZhe8U1iumqTaRZ6m8JqT?usp=sharing
 3.	Link Google Drive ảnh train&validation 10_Food: https://drive.google.com/drive/folders/1XLa6j3zxPbc9Z99GvG2axMxo2H9ZSmj9?usp=sharing
